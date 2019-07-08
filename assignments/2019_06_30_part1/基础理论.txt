@@ -1,0 +1,42 @@
+问题回答:
+问题:1. what do you want to acquire in this course？
+回答: 入门人工智能，为自己换行到人工智能做准备
+问题: 2. what problems do you want to solve？
+回答: 不太了解，暂时没有特定的问题想解决。
+问题: 3. what’s the advantages you have to finish you goal?
+回答: 1. 懂 python; 2. 每天有时间学习
+问题: 4. what’s the disadvantages you need to overcome to finish you goal?
+回答: 我的数学能力差、理解能力还有英文水平不足
+问题: 5. How will you plan to study in this course period?
+回答: 跟着老师学习，认真完成作业，对于涉及到不理解的知识点，进行额外学习。
+
+
+基础理论部分
+问题:0. Can you come up out 3 sceneraies which use AI methods?
+回答: 1. 人脸识别; 2. 语音识别; 3. 自然语言生成
+问题:1. How do we use Github; Why do we use Jupyter and Pycharm;
+回答: 使用 Github 提交我们的作业和代码； 我们使用 Jupyter 进行调试代码和演示代码，使用 Pycharm 进行开发项目
+
+问题: 2. What's the Probability Model?
+回答: 通过大量的语料库建立样本数据，判断对应词组在样本数据中的概率
+
+问题: 3. Can you came up with some sceneraies at which we could use Probability Model?
+回答: 1. 判断一句话是否合理; 2. 拦截垃圾短信或者邮件
+
+问题: 4. Why do we use probability and what's the difficult points for programming based on parsing and pattern match?
+回答: 因为有不确定性，存在这随机性和场景复杂，无法完全的模拟情境
+
+问题: 5. What's the Language Model;
+回答: 用来判断一句话是否合理的模型，判断是人话还是机器话
+
+问题: 6. Can you came up with some sceneraies at which we could use Language Model?
+回答: 1. 语音识别; 例如语音助手; 
+
+问题: 7. What's the 1-gram language model;
+回答: 只基于自身单词的概率，跟其他词组无关
+
+问题: 8. What's the disadvantages and advantages of 1-gram language model;
+回答: 优点: 速度快; 缺点: 因为没有结合邻近单词，所以识别效果不准
+
+问题: 9. What't the 2-gram models;
+回答: 会结合前一个词，来判断概率的大小
